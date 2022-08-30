@@ -1,0 +1,21 @@
+* { 
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+}
+body{ 
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-image: radial-gradient(circle, blue, red);
+    background: linear-gradient(90deg, rgb(40, 38, 80) 0%, rgba(115,115,203,1) 57%, rgba(0,212,255,1) 100%)
+    
+}
+.section{
+    
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+
+}
